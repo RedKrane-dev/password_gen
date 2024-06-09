@@ -24,4 +24,3 @@ shuffle(password_list)
 password_str = ''.join(password_list)
 
 print(f'Ваш пароль\n{password_str}')
-
